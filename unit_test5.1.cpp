@@ -14,3 +14,4 @@ TEST(Lab51Test, HandlesZeroInput) {
 TEST(Lab51Test, HandlesUnitInput) {
     EXPECT_NEAR(h(1.0, 1.0), 2.0 / 3.0, 0.0001);
 } 
+
